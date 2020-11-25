@@ -23,7 +23,7 @@ fi
     echo "This is an automated bash script that can be used to install Java 8 on Debian 10 OS."
 	sleep 1
 	echo "Made by Rmly"
-	echo "You can contact me at:"
+	echo "You can contact me on:"
 	echo " - Discord: https://discord.rmlyy.com"
 	echo " - Mail: me@rmlyy.com"
 	echo " - Website: https://www.rmlyy.com"
