@@ -7,15 +7,11 @@ How to use?
      * wget: wget https://raw.githubusercontent.com/Rmlyy/installjava8/main/script
      * curl: curl -S -O https://raw.githubusercontent.com/Rmlyy/installjava8/main/script
   - Then execute the script: 
-     * debian@proxy:~$ bash installjava
+     * debian@proxy:~$ bash script
 
  Second way:
   - Clone the repository: 
      * git clone https://github.com/Rmlyy/installjava8
   - Then execute the script:
      * cd installjava8
-     * bash installjava8
-    
-   
-   [!] If you did found any bugs you can mail me at me@rmlyy.com [!]
-  
+     * bash script
