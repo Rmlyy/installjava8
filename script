@@ -14,19 +14,8 @@ fi
 
 # Checking if the operating system is Debian 10
 if cat /etc/*release | grep ^VERSION_ID | grep 10; then
-FILE=/usr/bin/java
-if test -f "$FILE"; then
-    echo "Java is already installed on your system."
-    exit
-fi
 	clear
-    echo "This is an automated bash script that can be used to install Java 8 on Debian 10 OS."
-	sleep 1
-	echo "Made by Rmly"
-	echo "You can contact me at:"
-	echo " - Discord: https://discord.rmlyy.com"
-	echo " - Mail: me@rmlyy.com"
-	echo " - Website: https://www.rmlyy.com"
+    	echo "Bash script that can be used to install Java 8 on Debian 10 OS."
 	sleep 1
 	echo "Java 8 will be installed on this system in:"
 	echo "3 seconds"
