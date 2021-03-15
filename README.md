@@ -1,5 +1,5 @@
 # installjava8
-Simple bash script that can be used to install Java 8 on Debian 10 OS.
+Bash script that can be used to install Java 8 on Debian 10 OS.
 
 How to use?
  First way:
